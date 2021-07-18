@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":";;;AAIA,aAAA,QAAA","file":"src.ff173943.js","sourceRoot":"../src","sourcesContent":["// import \"./get\";\n// import './post'\n// import './patch'\n// import './remove'\nimport './get_async'"]}
